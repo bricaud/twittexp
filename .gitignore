@@ -1,0 +1,13 @@
+#.gitignore file
+
+twitter_credentials.json
+*credentials*.json
+*.png
+*.jpg
+*.svg
+*.pdf
+*.odt
+*.csv
+*.gephi
+*checkpoints*
+*pycache*

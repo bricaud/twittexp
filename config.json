@@ -1,0 +1,7 @@
+{
+	"credentials_file" : "twitter_credentials.json",
+	"pysad_path" : "../",
+	"data_path" : "../tweetdata/",
+	"results_path" : "../resultsdata/",
+	"accounts_file" : "initial_accounts.json"
+}
