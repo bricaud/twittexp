@@ -2,6 +2,9 @@
 
 twitter_credentials.json
 *credentials*.json
+initial_accounts.json
+config.json
+add_initial_accounts.ipynb
 *.png
 *.jpg
 *.svg
